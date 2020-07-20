@@ -71,6 +71,13 @@ const themes = {
     text_color: "f8f8f2",
     bg_color: "282a36",
   },
+  },
+  dracula: {
+    title_color: "add8e1",
+    icon_color: "add8e3",
+    text_color: "add8e1",
+    bg_color: "#00002",
+ },
 };
 
 module.exports = themes;
